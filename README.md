@@ -45,4 +45,4 @@ Prequequisite: As we know, in any outsource company, one of the most important t
 
 That's it.
 
-PS: Quick example with FastifyJS and MirkoORM
+PS: Quick example with FastifyJS and MikrORM
