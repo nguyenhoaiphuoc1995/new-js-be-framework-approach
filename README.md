@@ -44,3 +44,5 @@ Prequequisite: As we know, in any outsource company, one of the most important t
 8) Read more about the frameworks.
 
 That's it.
+
+PS: Quick example with FastifyJS and MirkoORM
