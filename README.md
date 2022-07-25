@@ -64,3 +64,4 @@ npm run start
 4) References:
 
 - Before you start, you must generate prisma schema in your source code, run "npm run generate"
+PS: Quick example with FastifyJS and PrismORM
