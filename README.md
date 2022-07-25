@@ -46,3 +46,21 @@ Prequequisite: As we know, in any outsource company, one of the most important t
 That's it.
 
 PS: Quick example with FastifyJS and MikrORM
+
+1) What is the purpose?
+This app is a quick demo of the new js approach
+
+2) What is the structure of the app?
+Like ExpressJS framework, this app is mainly focused on JS, but because prisma.io is typescript based, so we will write this project using typescript.
+
+The directory structure:
+routes
+services
+schema
+
+3) How to run the project?
+npm run start
+
+4) References:
+
+- Before you start, you must generate prisma schema in your source code, run "npm run generate"
